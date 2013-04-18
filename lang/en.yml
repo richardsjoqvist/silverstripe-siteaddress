@@ -1,0 +1,12 @@
+en:
+  SiteConfigAddress:
+    COMPANY: 'Company'
+    STREET: 'Street'
+    ZIP: 'Zip'
+    CITY: 'City'
+    COUNTRY: 'Country'
+    BOX: 'Box address'
+    EMAIL: 'Email'
+    PHONE: 'Phone'
+    MOBILE: 'Mobile'
+    FAX: 'Fax'

@@ -1,0 +1,12 @@
+sv:
+  SiteConfigAddress:
+    COMPANY: 'Företag'
+    STREET: 'Gatuadress'
+    ZIP: 'Postnummer'
+    CITY: 'Ort'
+    COUNTRY: 'Land'
+    BOX: 'Boxadress'
+    EMAIL: 'E-postadress'
+    PHONE: 'Telefon'
+    MOBILE: 'Mobil'
+    FAX: 'Fax'
