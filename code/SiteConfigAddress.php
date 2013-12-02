@@ -6,28 +6,19 @@ class SiteConfigAddress extends DataExtension {
 
 	/**
 	 * Add fields
-	 *
-	 * @param $class
-	 * @param $extension
-	 * @return array
 	 */
-	function extraStatics($class = NULL, $extension = NULL)
-	{
-		return array(
-			'db' => array(
-				'Company'		=> 'Text',
-				'Street'		=> 'Text',
-				'Zip'			=> 'Text',
-				'City'			=> 'Text',
-				'Country'		=> 'Text',
-				'Box'			=> 'Text',
-				'Email'			=> 'Text',
-				'Phone'			=> 'Text',
-				'Mobile'		=> 'Text',
-				'Fax'			=> 'Text',
-			),
-		);
-	}
+    private static $db = array(
+		'Company'		=> 'Text',
+		'Street'		=> 'Text',
+		'Zip'			=> 'Text',
+		'City'			=> 'Text',
+		'Country'		=> 'Text',
+		'Box'			=> 'Text',
+		'Email'			=> 'Text',
+		'Phone'			=> 'Text',
+		'Mobile'		=> 'Text',
+		'Fax'			=> 'Text',
+	);
  
 	/**
 	 * Update cms fields

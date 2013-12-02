@@ -1,7 +1,10 @@
 ## Company address SilverStripe module
 
 This is a SilverStripe module that adds a set of extra fields to the main settings page in order to configure a site-wide company address that can be displayed on all pages of the site.
-Compatible with SilverStripe 3 (tested with 3.0.5)
+
+## Requirements
+
+* SilverStripe 3.1
 
 ## Installation
 

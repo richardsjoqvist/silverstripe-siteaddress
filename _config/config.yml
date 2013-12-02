@@ -1,0 +1,7 @@
+---
+Name: silverstripe-siteaddress
+After: 'framework/*','cms/*'
+---
+SiteConfig:
+  extensions:
+    - SiteConfigAddress
